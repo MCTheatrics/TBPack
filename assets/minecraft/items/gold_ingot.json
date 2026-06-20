@@ -1,0 +1,16 @@
+{
+  "model": {
+    "type": "range_dispatch",
+    "property": "custom_model_data",
+    "fallback": {
+      "type": "model",
+      "model": "item/gold_ingot"
+    },
+    "entries": [
+        { "threshold": 1, "model": { "type": "model", "model": "tbcore:item/mct/citystuff/trashcontainer" } },
+        { "threshold": 2, "model": { "type": "model", "model": "tbcore:item/mct/citystuff/barricade" } },
+        { "threshold": 3, "model": { "type": "model", "model": "tbcore:item/mct/citystuff/trafficcone" } },
+        { "threshold": 4, "model": { "type": "model", "model": "tbcore:item/mct/citystuff/trashcan" } }
+    ] 
+  } 
+} 

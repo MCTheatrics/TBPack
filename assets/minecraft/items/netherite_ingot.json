@@ -9,11 +9,11 @@
     "entries": [
         { "threshold": 1, "model": { "type": "model", "model": "tbcore:item/toybox/heathers/heathers_archway" } },
         { "threshold": 2, "model": { "type": "model", "model": "tbcore:item/toybox/heathers/heathers_archwayb" } },
-        { "threshold": 4, "model": { "type": "model", "model": "tbcore:item/toybox/heathers/heathers_door" } },
-        { "threshold": 5, "model": { "type": "model", "model": "tbcore:item/toybox/heathers/heathers_doorway" } },
-        { "threshold": 6, "model": { "type": "model", "model": "tbcore:item/toybox/heathers/heathers_wall1" } },
-        { "threshold": 7, "model": { "type": "model", "model": "tbcore:item/toybox/heathers/heathers_wall2" } },
-        { "threshold": 8, "model": { "type": "model", "model": "tbcore:item/toybox/heathers/heathers_window" } }
+        { "threshold": 3, "model": { "type": "model", "model": "tbcore:item/toybox/heathers/heathers_door" } },
+        { "threshold": 4, "model": { "type": "model", "model": "tbcore:item/toybox/heathers/heathers_doorway" } },
+        { "threshold": 5, "model": { "type": "model", "model": "tbcore:item/toybox/heathers/heathers_wall1" } },
+        { "threshold": 6, "model": { "type": "model", "model": "tbcore:item/toybox/heathers/heathers_wall2" } },
+        { "threshold": 7, "model": { "type": "model", "model": "tbcore:item/toybox/heathers/heathers_window" } }
     ] 
   } 
 } 

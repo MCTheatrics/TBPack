@@ -2,7 +2,7 @@
   "providers": [
 {
             "type": "bitmap",
-            "file": "sbcore:ranks/smallcaps.png",
+            "file": "tbcore:ranks/smallcaps.png",
             "ascent": 7,
             "chars": [
                 "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",

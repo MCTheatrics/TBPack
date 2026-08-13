@@ -4,7 +4,7 @@
 	"textures": {
 		"0": "block/bricks",
 		"1": "block/sandstone_top",
-		"2": "tbcord:item/toybox/heathers/westerberg_high",
+		"2": "tbcore:item/toybox/heathers/westerberg_high",
 		"particle": "block/bricks"
 	},
 	"elements": [
